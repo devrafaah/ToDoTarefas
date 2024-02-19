@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "853130426251",
+    "firebase_url": "https://curso-kotlin-74334-default-rtdb.firebaseio.com",
+    "project_id": "curso-kotlin-74334",
+    "storage_bucket": "curso-kotlin-74334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853130426251:android:b2c65bde61ffe027cbe18e",
+        "android_client_info": {
+          "package_name": "com.example.todotarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATp2bJV-i33w7vSatEZXLPlPeBLIBkkNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">ToDoTarefas</string>
+
+    <!--    Strings generics -->
+    <string name="text_email">E-mail</string>
+    <string name="text_hint_email">Type your Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_hint_password">Type your password</string>
+    <string name="text_error_generic">Ocorreu um error tente novamente mais tarde</string>
+
+    <!--    LoginFragment.kt -->
+    <string name="text_warning_login_fragment">WARNING</string>
+    <string name="text_email_required_login_fragment">Field Email is Required</string>
+    <string name="text_password_required_login_fragment">Field Password is Required</string>
+    <string name="text_both_required_login_fragment">Both Fields is Required</string>
+    <string name="text_forget_your_password_login_fragment">Forget your Password ?</string>
+    <string name="button_text_login_fragment">LOGIN</string>
+
+    <!--    RecoverFragment.kt -->
+    <string name="recover_account_recover_fragment">Recover Account</string>
+    <string name="change_password_recover_fragment">Inform your registered email account to receive a link to change your password.</string>
+    <string name="send_link_recover_fragment">SEND LINK</string>
+
+    <!--    RegisterFragment.kt -->
+    <string name="create_new_account_register_fragment">Create new Account</string>
+    <string name="create_account_register_fragment">Create Account</string>
+
+    <!--    FormTaskFragment.kt -->
+    <string name="description_new_task_fragment">description</string>
+    <string name="text_description_Required_new_task_fragment">Field description is Required</string>
+    <string name="create_a_new_task_new_task_fragment">Create a New Task</string>
+    <string name="status_new_task_fragment">Status</string>
+    <string name="to_do_new_task_fragment">To do</string>
+    <string name="doing_new_task_fragment">Doing</string>
+    <string name="done_new_task_fragment">Done</string>
+    <string name="save_new_task_fragment">SAVE</string>
+    <string name="status_talk_todo">To Do</string>
+    <string name="status_talk_doing">Doing</string>
+    <string name="status_talk_done">Done</string>
+    <string name="criar_layout_da_tela_de_login_do_app">Criar layout da tela de login do app</string>
+    <string name="editar">Editar</string>
+    <string name="remover">Remover</string>
+    <string name="detalhes">Detalhes</string>
+
+
+    <!--    Erros FirebaseHelper -->
+    <string name="account_not_registered_register_fragment">Nenhuma conta encontrada com este e-email</string>
+    <string name="invalid_email_register_fragment">Insira um e-mail válido</string>
+    <string name="invalid_password_register_fragment">Senha invalida, tente novamente</string>
+    <string name="email_in_use_register_fragment">Este e-mail já esta em uso</string>
+    <string name="strong_password_register_fragment">Insira uma senha mais forte</string>
+
+
+    <string name="text_save_erro_task">Erro ao salvar a tarefa</string>
+    <string name="text_save_sucess_task">tarefa salva com sucesso</string>
+    <string name="text_edit_sucess_task">tarefa editada com sucesso</string>
+    <string name="text_edit_error_sucess_task">Erro ao editar a tarefa</string>
+    <string name="text_remove_sucess_task">tarefa removida com sucesso</string>
+    <string name="text_error_remove_task">Erro ao remover a tarefa</string>
+
+
+</resources>
